@@ -1,0 +1,56 @@
+[
+    {
+        "historial_cliente_id": 2,
+        "historial_material_id": 3,
+        "historial_fecha_entrega": "2025-01-31 13:04:52",
+        "historial_cantidad_reciclada": 3.0
+    },
+    {
+        "historial_cliente_id": 2,
+        "historial_material_id": 1,
+        "historial_fecha_entrega": "2025-01-31 13:05:15",
+        "historial_cantidad_reciclada": 1.0
+    },
+    {
+        "historial_cliente_id": 2,
+        "historial_material_id": 1,
+        "historial_fecha_entrega": "2025-01-31 13:05:36",
+        "historial_cantidad_reciclada": 2.5
+    },
+    {
+        "historial_cliente_id": 1,
+        "historial_material_id": 3,
+        "historial_fecha_entrega": "2025-02-01 16:40:26",
+        "historial_cantidad_reciclada": 4.0
+    },
+    {
+        "historial_cliente_id": 1,
+        "historial_material_id": 1,
+        "historial_fecha_entrega": "2025-02-01 16:49:30",
+        "historial_cantidad_reciclada": 1.0
+    },
+    {
+        "historial_cliente_id": 1,
+        "historial_material_id": 1,
+        "historial_fecha_entrega": "2025-02-01 16:51:54",
+        "historial_cantidad_reciclada": 1.0
+    },
+    {
+        "historial_cliente_id": 2,
+        "historial_material_id": 2,
+        "historial_fecha_entrega": "2025-02-01 17:00:09",
+        "historial_cantidad_reciclada": 1.0
+    },
+    {
+        "historial_cliente_id": 3,
+        "historial_material_id": 1,
+        "historial_fecha_entrega": "2025-02-01 18:29:33",
+        "historial_cantidad_reciclada": 1.0
+    },
+    {
+        "historial_cliente_id": 2,
+        "historial_material_id": 2,
+        "historial_fecha_entrega": "2025-02-01 18:41:10",
+        "historial_cantidad_reciclada": 3.0
+    }
+]
